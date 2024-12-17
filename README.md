@@ -1,0 +1,3 @@
+# Unexpected Behavior with Null Values in JavaScript
+
+This repository demonstrates a common issue in JavaScript related to null value comparisons.  The `bug.js` file showcases a function that uses loose equality, which can produce unexpected results when dealing with nulls. The `bugSolution.js` file presents a corrected version that uses strict equality to fix the behavior and correctly handles null cases.
